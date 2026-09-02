@@ -1,0 +1,1 @@
+Dean has his first shoulder physical-therapy evaluation today; factor this into health guidance and planning.
