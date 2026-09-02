@@ -94,6 +94,52 @@ skills:
   creation_nudge_interval: 15
   disabled:
     - airtable
+    - apple-notes
+    - apple-reminders
+    - architecture-diagram
+    - arxiv
+    - ascii-video
+    - baoyu-infographic
+    - blocked-page-recovery
+    - box
+    - claude-code
+    - claude-design
+    - codebase-inspection
+    - competitor-news-monitor
+    - computer-use
+    - design-md
+    - document-to-action-items
+    - docx
+    - dogfood
+    - email-inbox-triage
+    - findmy
+    - gif-search
+    - google-workspace
+    - grounded-citations
+    - himalaya
+    - humanizer
+    - llm-wiki
+    - manim-video
+    - maps
+    - meeting-action-items
+    - node-inspect-debugger
+    - notion
+    - opencode
+    - p5js
+    - pdf
+    - popular-web-designs
+    - powerpoint
+    - product-price-monitor
+    - python-debugpy
+    - requesting-code-review
+    - simplify-code
+    - songsee
+    - spike
+    - systematic-debugging
+    - teams-meeting-pipeline
+    - test-driven-development
+    - xlsx
+    - xurl
 kanban:
   review_dispatch: true
 code_execution:
