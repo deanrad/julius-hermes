@@ -2,6 +2,8 @@ Timestamp unknown (events 2026-04-21 to 2026-07-09) CST — Dean developed bilat
 §
 Timestamp unknown (events 2026-08-12 to 2026-09-03) CST — Left shoulder pain is provoked by backward shrug circles, chicken-wing lateral lifts, pushing down to stand, and reliably by dishes followed by raising the arm to view a wristwatch; it can also occur with chair rises/door pulling. Pain pattern: elbow bent ~90°, arm at side or slightly behind. Possible yoga/weight-related setback late August. PT originally missed Sept 2 was rescheduled Sept 9.
 §
-Timestamp unknown (event early September 2026) CST — Dean completed a lamotrigine taper; indication, prescriber awareness, and supervision unknown. He had reduced from ~75 mg/day in late July to ~75 mg every other day in mid-August; mood/motivation/wakefulness had improved. Left shoulder limitation is now near-constant 3–4/10, is driving disuse, and he seeks relief and MRI assessment.
+2026-09-08 10:12 CST — Dean confirms the lamotrigine taper is complete. He plans to log concerning mood changes here and reports he has prescribed short-term lorazepam available for anxiety; dose, instructions, indication, prescriber awareness, and supervision remain unknown.
 §
 Timestamp unknown (events 2026-04-30 to 2026-07-09) CST — Bilateral plantar fasciitis followed walk-runs/basketball and was worse mornings; later entered remission. Blue Saucony runners seemed aggravating; sandals/stiffer Curry basketball shoes helped. Modified bike bootcamps and walking in friendly shoes supported activity, mood, shoulder, and feet.
+§
+2026-09-08 10:07 CST — Left-shoulder MRI is scheduled for September 22, 2026. Dean wants an earlier appointment if feasible, but pre-certification is still in progress and approval status is unknown; pre-certification staff expect an answer by the end of this week.
