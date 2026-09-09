@@ -7,3 +7,5 @@ Timestamp unknown (events 2026-08-12 to 2026-09-03) CST — Left shoulder pain i
 Timestamp unknown (events 2026-04-30 to 2026-07-09) CST — Bilateral plantar fasciitis followed walk-runs/basketball and was worse mornings; later entered remission. Blue Saucony runners seemed aggravating; sandals/stiffer Curry basketball shoes helped. Modified bike bootcamps and walking in friendly shoes supported activity, mood, shoulder, and feet.
 §
 2026-09-08 10:07 CST — Left-shoulder MRI is scheduled for September 22, 2026. Dean wants an earlier appointment if feasible, but pre-certification is still in progress and approval status is unknown; pre-certification staff expect an answer by the end of this week.
+§
+Timestamp unknown (event dated 2026-09-09) CST — Dean chose a separate Telegram bot for the health profile rather than sharing/moving the default-profile bot; the health bot is access-restricted to his Telegram account.
