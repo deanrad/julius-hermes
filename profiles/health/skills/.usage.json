@@ -5,14 +5,14 @@
     "created_by": "agent",
     "last_patched_at": "2026-09-02T18:13:49.307277+00:00",
     "last_reused_patch_generation": 0,
-    "last_used_at": null,
-    "last_viewed_at": null,
+    "last_used_at": "2026-09-08T23:56:19.908588+00:00",
+    "last_viewed_at": "2026-09-08T23:56:19.907873+00:00",
     "patch_count": 1,
     "patch_generation": 1,
     "pinned": false,
     "state": "active",
-    "use_count": 0,
-    "view_count": 0
+    "use_count": 1,
+    "view_count": 1
   },
   "health-guidance-and-records": {
     "archived_at": null,
