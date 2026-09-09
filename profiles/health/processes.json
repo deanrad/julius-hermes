@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "session_id": "proc_15a8a2e9f21b",
+    "command": "HERMES_HOME=/Users/deanradcliffe/.hermes/profiles/health hermes gateway setup",
+    "pid": 38802,
+    "pid_scope": "host",
+    "host_start_time": 178896193968,
+    "systemd_unit": "",
+    "cwd": "/Users/deanradcliffe",
+    "started_at": 1788961939.6811829,
+    "task_id": "default",
+    "owner_task_id": "20260908_102348_a06f1c",
+    "session_key": "20260908_102348_a06f1c",
+    "watcher_platform": "",
+    "watcher_chat_id": "",
+    "watcher_user_id": "",
+    "watcher_user_name": "",
+    "watcher_thread_id": "",
+    "watcher_message_id": "",
+    "watcher_interval": 0,
+    "parent_session_id": "",
+    "notify_on_complete": false,
+    "watch_patterns": []
+  }
+]
