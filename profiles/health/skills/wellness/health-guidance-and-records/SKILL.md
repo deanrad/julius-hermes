@@ -40,7 +40,7 @@ Use this skill for personal health updates, symptom tracking, medication-status 
 - Record location, laterality, severity, function, onset, triggers, relieving factors, prior injury/dislocation, neurologic symptoms, and what exercise/loading is tolerated.
 - Recommend relative rest rather than complete immobilization unless a clinician directs otherwise. Favor general conditioning and pain-neutral movement; stop repeated provocative “testing.”
 - Encourage clinician/PT-directed rehabilitation. Do not prescribe a generic strengthening routine when it causes pain or the diagnosis is unresolved.
-- For imaging delayed by authorization, preserve the scheduled appointment, ask the imaging center for cancellation-list access across acceptable locations/times, and ask the ordering office to verify supporting records and request details. See `references/mri-authorization-workflow.md`.
+- For imaging delayed by authorization, preserve the scheduled appointment, ask the imaging center for cancellation-list access across acceptable locations/times, and ask the ordering office to verify supporting records and request details.
 - Escalate urgently for deformity after trauma, true dislocation, sudden marked weakness, inability to raise the arm, persistent/spreading numbness, cold/pale limb, fever/redness/warmth with escalating pain, or cardiopulmonary symptoms.
 
 ## Documentation style
