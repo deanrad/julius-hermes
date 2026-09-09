@@ -181,6 +181,7 @@ onboarding:
   seen:
     profile_build_offered: true
     openclaw_residue_cleanup: true
+    tool_progress_prompt: true
 telemetry:
   shared_metrics:
     enabled: false
