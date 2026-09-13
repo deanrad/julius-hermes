@@ -2,7 +2,7 @@ Timestamp unknown (events 2026-04-21 to 2026-07-09) CST — Dean developed bilat
 §
 Timestamp unknown (events 2026-08-12 to 2026-09-03) CST — Left shoulder pain is provoked by backward shrug circles, chicken-wing lateral lifts, pushing down to stand, and reliably by dishes followed by raising the arm to view a wristwatch; it can also occur with chair rises/door pulling. Pain pattern: elbow bent ~90°, arm at side or slightly behind. Possible yoga/weight-related setback late August. PT originally missed Sept 2 was rescheduled Sept 9.
 §
-2026-09-08 10:12 CST — Dean confirms the lamotrigine taper is complete. He plans to log concerning mood changes here and reports he has prescribed short-term lorazepam available for anxiety; dose, instructions, indication, prescriber awareness, and supervision remain unknown.
+2026-09-13 11:20 CST — Dean reports Labor Day 2026 (Monday, September 7) was his last lamotrigine dose and he is now free of required daily medications. He plans to log concerning mood changes here and reports prescribed short-term lorazepam available for anxiety; dose, instructions, indication, prescriber awareness, and supervision remain unknown.
 §
 Timestamp unknown (events 2026-04-30 to 2026-07-09) CST — Bilateral plantar fasciitis followed walk-runs/basketball and was worse mornings; later entered remission. Blue Saucony runners seemed aggravating; sandals/stiffer Curry basketball shoes helped. Modified bike bootcamps and walking in friendly shoes supported activity, mood, shoulder, and feet.
 §
