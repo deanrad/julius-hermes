@@ -2,9 +2,7 @@ Timestamp unknown (events 2026-04-21 to 2026-07-09) CST — Bilateral shoulder c
 §
 Timestamp unknown (events 2026-08-12 to 2026-09-03) CST — Left shoulder pain with backward shrug circles, chicken-wing lateral lifts, chair rises/door pulling, and after dishes when raising arm to view wristwatch; arm often bent ~90° at side/slightly behind. Possible yoga/weight setback late August.
 §
-2026-09-13 11:20 CST — Dean reports Labor Day 2026 (Monday, September 7) was his last lamotrigine dose and he is now free of required daily medications. He plans to log concerning mood changes here and reports prescribed short-term lorazepam available for anxiety; dose, instructions, indication, prescriber awareness, and supervision remain unknown.
-§
-Timestamp unknown (events 2026-04-30 to 2026-07-09) CST — Bilateral plantar fasciitis followed walk-runs/basketball and was worse mornings; later entered remission. Blue Saucony runners seemed aggravating; sandals/stiffer Curry basketball shoes helped. Modified bike bootcamps and walking in friendly shoes supported activity, mood, shoulder, and feet.
+2026-09-13 11:20 CST — Dean reported final lamotrigine dose on Labor Day, 2026-09-07; he is free of required daily medications. He reports tapering to 75 mg daily (half a 150-mg tablet) for a couple weeks, then alternating days off for 2 weeks, then stopping; prescriber instructions/awareness and prior dose unknown. Prescribed short-term lorazepam is available for anxiety; dose/instructions/indication/supervision unknown. Timestamp unknown (event dated 2026-08-13) CST — Dean describes “The Integration,” a felt spiritual renewal associated with improved mental health, shoulder recovery, and a more positive/challenged outlook toward work.
 §
 2026-09-27 22:16 CST — Dean provided the report for left-shoulder MRI dated 2026-09-22: severe AC-joint inflammation/capsulitis, marked bone-marrow edema in distal clavicle and acromion, distal-clavicle cartilage injury with subchondral cyst; alignment and coracoclavicular/coracoacromial ligaments intact. Glenohumeral joint/labrum grossly normal; no rotator-cuff or biceps tear, atrophy, bursitis, or joint effusion.
 §
