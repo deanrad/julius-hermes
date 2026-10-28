@@ -1,9 +1,9 @@
 {
-  "last_report_path": "/Users/deanradcliffe/.hermes/profiles/health/logs/curator/20261021-162015",
-  "last_run_at": "2026-10-21T16:20:15.810542+00:00",
-  "last_run_duration_seconds": 0.388578,
-  "last_run_summary": "auto: 56 marked stale; llm: skipped (consolidation off)",
+  "last_report_path": "/Users/deanradcliffe/.hermes/profiles/health/logs/curator/20261028-164646",
+  "last_run_at": "2026-10-28T16:46:46.240203+00:00",
+  "last_run_duration_seconds": 0.366177,
+  "last_run_summary": "auto: 1 marked stale; llm: skipped (consolidation off)",
   "last_run_summary_shown_at": null,
   "paused": false,
-  "run_count": 6
+  "run_count": 7
 }
