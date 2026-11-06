@@ -34,6 +34,9 @@ Use this skill for personal health updates, symptom tracking, medication-status 
 - Encourage prompt prescriber contact after unsupervised or unclear changes, while respecting the user’s autonomy.
 - For PRN sedating medications, advise use only as prescribed; flag sedation, driving/decision impairment, and unsafe combinations such as alcohol, opioids, cannabis, or other sedatives unless a prescriber/pharmacist has confirmed safety.
 - Give urgent escalation guidance for severe mood changes, sustained decreased need for sleep with agitation, psychosis/confusion, or thoughts of self-harm or harm to others.
+- When activation follows a mood-medication change, do not equate creativity, spirituality, productivity, or motivation with pathology. Explain neutrally that the clinical concern is a meaningful baseline shift plus sleep, judgment, safety, or relationship impact; recommend timely reassessment without directing medication changes.
+- Ask specifically about sleep opportunity versus inability to sleep, substance use/timing, driving safety, verbal/physical escalation, and whether household members feel safe. Treat a frightening driving event as safety-relevant even when the person took a protective action such as pulling over.
+- Offer concrete self-directed guardrails: avoid driving while activated, arguing, underslept, or using intoxicants; defer high-stakes decisions; use a transparent, pre-agreed pause plan with a return time; and reduce stimulation while arranging clinical review. For a clinician who declines reassessment, provide a factual timeline the user can take to primary care, another prescriber, or a second-opinion service.
 
 ## Musculoskeletal symptoms and imaging logistics
 
