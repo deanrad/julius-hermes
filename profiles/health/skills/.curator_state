@@ -1,9 +1,9 @@
 {
-  "last_report_path": "/Users/deanradcliffe/.hermes/profiles/health/logs/curator/20261105-003130",
-  "last_run_at": "2026-11-05T00:31:30.352282+00:00",
-  "last_run_duration_seconds": 0.385912,
+  "last_report_path": "/Users/deanradcliffe/.hermes/profiles/health/logs/curator/20261112-012345",
+  "last_run_at": "2026-11-12T01:23:45.097006+00:00",
+  "last_run_duration_seconds": 0.216683,
   "last_run_summary": "auto: no changes; llm: skipped (consolidation off)",
   "last_run_summary_shown_at": null,
   "paused": false,
-  "run_count": 8
+  "run_count": 9
 }
