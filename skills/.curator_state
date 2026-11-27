@@ -1,9 +1,9 @@
 {
-  "last_report_path": "/Users/deanradcliffe/.hermes/logs/curator/20261120-000753",
-  "last_run_at": "2026-11-20T00:07:53.950768+00:00",
-  "last_run_duration_seconds": 0.31538,
+  "last_report_path": "/Users/deanradcliffe/.hermes/logs/curator/20261127-034229",
+  "last_run_at": "2026-11-27T03:42:29.741931+00:00",
+  "last_run_duration_seconds": 0.271629,
   "last_run_summary": "auto: no changes; llm: skipped (consolidation off)",
   "last_run_summary_shown_at": null,
   "paused": false,
-  "run_count": 11
+  "run_count": 12
 }
